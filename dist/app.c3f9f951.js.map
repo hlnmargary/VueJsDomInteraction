@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/app.js"],"names":["Vue","el","data","title"],"mappings":"AAAA,IAAIA,GAAJ,CAAQ;AACNC,EAAAA,EAAE,EAAE,MADE;AAENC,EAAAA,IAAI,EAAE;AACJC,IAAAA,KAAK,EAAE;AADH;AAFA,CAAR","file":"app.c3f9f951.js","sourceRoot":"..","sourcesContent":["new Vue({\n  el: '#app',\n  data: {\n    title: 'Hello World!'\n  }\n});\n"]}
